@@ -3,6 +3,7 @@ package guru.springframework.springrestclientexamples.service;
 import static org.junit.Assert.*;
 
 import guru.springframework.api.domain.User;
+import guru.springframework.springrestclientexamples.services.ApiService;
 import java.util.List;
 import org.junit.Before;
 import org.junit.Test;
